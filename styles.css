@@ -1,0 +1,38 @@
+form{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 3px;
+    text-align: center;
+    margin: auto;
+}
+.allin{
+    height:25px;
+    width:100%;
+}
+.btn{
+    margin-top: 5px;
+    width:70px;
+    height:40px;
+}
+
+.delmsg>p{
+    position: relative;
+    left:45%;
+   
+}
+.editbtn{
+    border:1px solid gray;
+    margin: 5px;
+    width:114px;
+    height:40px;
+    text-align: center;
+    cursor: pointer;
+    display: inline-table;
+    padding:7px 2px;
+    box-sizing: border-box;
+}
+.editbtn>a{
+    text-decoration: none;
+    margin:0;
+}
